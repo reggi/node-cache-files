@@ -1,6 +1,6 @@
 # Cache Files
 
-I wanted a simple and easy way to cache values from a promise. I came up with this way of assigning a file and prepending the file name with the date, and pulling a file if it's under the age limit.
+I wanted a way to cache values from a promise. I came up with this way of assigning a file and prepending the file name with the date, and pulling a file if it's under the age limit.
 
 ## Example
 
